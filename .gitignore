@@ -1,0 +1,11 @@
+.idea/
+IlluminatedCloud/
+*.iml
+config/**
+*.sublime*
+#prevent screwing up the CI
+.project
+.settings/
+salesforce.schema
+Referenced Packages/
+src/pages/AG_Test_Step_c*
